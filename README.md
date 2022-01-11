@@ -3,7 +3,7 @@ The directory structure is as follows:
 
 dev/ -- sourcecode for software under development, including assignments
 
-worksheets/ -- .md files you should edit and then git commit for the worksheet portion of each assignment
+worksheets/ -- .md files which are worksheet portion of each assignment
 
 
 bin/ -- executables and .dlls should be installed here.  this directory should be added to your Windows PATH environment variable
